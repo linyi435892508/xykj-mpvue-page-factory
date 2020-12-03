@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HelloZJW/mpvue-page-factory.git"
+    "url": "git+https://github.com/linyi435892508/xykj-mpvue-page-factory.git"
   },
   "bugs": {
-    "url": "https://github.com/HelloZJW/mpvue-page-factory/issues"
+    "url": "https://github.com/linyi435892508/xykj-mpvue-page-factory/issues"
   },
-  "homepage": "https://github.com/HelloZJW/mpvue-page-factory#readme"
+  "homepage": "https://github.com/linyi435892508/xykj-mpvue-page-factory#readme"
 }
